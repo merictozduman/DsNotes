@@ -1,0 +1,10 @@
+
+Initialized sequence with 5968 registries.
+
+Test performed on 5968 registries.
+Discarded 0 records < 1 after preparation.
+
+Initialized sequence with 5968 registries.
+
+Test performed on 5968 registries.
+Discarded 0 records < 1 after preparation.
